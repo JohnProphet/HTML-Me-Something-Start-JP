@@ -29,6 +29,7 @@ body {
   margin: 8px;
   padding: 20%;
   background-color: rgb(0, 0, 0);
+  orientation: center;
 }
 
 h1 {
